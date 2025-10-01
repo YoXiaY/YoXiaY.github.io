@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    //toggleGrid();
+    //toggleGrid(false);
 
 
     // TODO 2 - Create Platforms
