@@ -56,7 +56,7 @@ var init = function (window) {
       // TODO 8 / TODO 9 : Iterate over the array
       for (var i = 0; i < circles.length; i++) {
         physikz.updatePosition(circles[i]);
-        game.checkCirclePosition(circles[i])
+        game.checkCirclePosition(circles[i]);
       }
     }
 
@@ -84,6 +84,7 @@ var init = function (window) {
       // YOUR TODO 6 CODE ENDS HERE //////////////////////////
     };
 
+    
     /////////////////////////////////////////////////////////////
     // --- NO CODE BELOW HERE  --- DO NOT REMOVE THIS CODE --- //
     /////////////////////////////////////////////////////////////
